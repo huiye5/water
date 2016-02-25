@@ -1,5 +1,5 @@
 # water - 笔记积累
-
+`
 1.写一个事件添加器
 //拆分应用层逻辑
 var MyApplication = {
@@ -17,3 +17,4 @@ var MyApplication = {
 addEventListener(element, "click", function(){
     MyApplication.handleClick(event);
 });
+`
